@@ -1,4 +1,8 @@
+
+// Ressources used for this exercise:
 // https://humanwhocodes.com/snippets/2019/05/jest-globals-intellisense-visual-studio-code/
+// https://jestjs.io/docs/getting-started
+
 
 const calculator = require('./calculator');
 

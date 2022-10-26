@@ -27,12 +27,6 @@ const calculator = (num_1, num_2, operand) => {
 
         default:
             return 'Error, you must use a valid operator!';
-
-
     }
-
-
 }
 module.exports = calculator;
-
-//console.log(calculator(5, "5", '/'));
