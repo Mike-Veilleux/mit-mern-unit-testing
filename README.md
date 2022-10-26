@@ -2,4 +2,4 @@
 
 A collection of exercises to share and learn...
 
-NOTE, Node_modules are not included, run "npm install" from terminal to download all dependencies.
+The node_modules are not included. From your clone directory, run "npm install" in the terminal to download all dependencies.
