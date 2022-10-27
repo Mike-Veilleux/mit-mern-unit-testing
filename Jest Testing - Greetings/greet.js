@@ -1,5 +1,5 @@
 // @ts-nocheck
-function greet(name) {
+function Greet(name) {
 
     let isArray = Array.isArray(name);
     let isUpperCase;
@@ -28,4 +28,4 @@ function greet(name) {
 }
 
 
-module.exports = greet;
+module.exports = Greet;
